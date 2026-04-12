@@ -8,6 +8,8 @@ An AI-powered web application that evaluates how well a resume matches a job des
 
 https://resume-analyzer-bwgxpuyuzru4x9bg3pjqku.streamlit.app/
 
+Note: If the app is 'sleeping' when you click the link, just hit the 'Wake up' button—it takes about 30 seconds to load!
+
 ---
 
 ## Overview
